@@ -89,15 +89,12 @@ A custom-built dashboard for:
 ---
 
 ## 📬 Contact  
-## 📬 Contact  
 
 <p align="center">
   <a href="https://h00m4ns.github.io/Portofolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-h00m4ns.github.io-blue?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
-
-
 
 ---
 
