@@ -17,7 +17,7 @@
 - 📱 Building educational systems (absensi + nilai) with **Golang + Flutter**
 - 🏛 Working on government-level apps (Absensi Sorong Selatan — Golang)
 - 📊 Developing a personal dashboard (Nuxt + Node)
-- 📚 Currently learning: **Laravel** & **React**
+- 📚 Currently learning: **Laravel**, **Node.js** & **React**
 
 ---
 
@@ -83,7 +83,7 @@ A custom-built dashboard for:
 - ⚡ I enjoy building backend services from scratch  
 - 🧠 I like clean architecture & organized projects  
 - 🔍 Big fan of debugging and optimizing workflows  
-- 🎮 I build dashboards/tools for fun  
+- 🎮 I build dashboards/tools for fun (for now 12 - 8 - 2025)
 - 🛠 Sometimes I create mini internal apps that become essential later  
 
 ---
@@ -91,7 +91,7 @@ A custom-built dashboard for:
 ## 📬 Contact  
 
 <p align="center">
-  <a href="https://h00m4ns.github.io/Portofolio/" target="_blank">
+  <a href="https://jamesstack.id/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-h00m4ns.github.io-blue?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
